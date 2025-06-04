@@ -1,4 +1,4 @@
-import conto_pytest
+import pytest
 
 from conto_bancario import ContoBancario
 
